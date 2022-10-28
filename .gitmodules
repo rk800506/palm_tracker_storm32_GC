@@ -1,0 +1,6 @@
+[submodule "stm32_bgc_ranjeet_version"]
+	path = stm32_bgc_ranjeet_version
+	url = git@github.com:rk800506/stm32_bgc_ranjeet_version.git
+[submodule "ros_deep_learning"]
+	path = ros_deep_learning
+	url = https://github.com/rk800506/ros_deep_learning.git
